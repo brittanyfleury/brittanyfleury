@@ -1,5 +1,10 @@
 ### Hi there 👋
+# Brittany Fleury
+### Business Analytics and Information Systems; Marketing 
+### Tippie College of Business, The University of Iowa
 
+
+[LinkedIn] (https://www.linkedin.com/in/brittanyfleury/)
 <!--
 **brittanyfleury/brittanyfleury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
