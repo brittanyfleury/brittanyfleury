@@ -5,7 +5,7 @@
 
 
 [LinkedIn](https://www.linkedin.com/in/brittanyfleury/) <br>
-[MyWebsite](www.brittanyfleury.com)
+[Personal Website](https://brittanyfleury.com/)
 <!--
 **brittanyfleury/brittanyfleury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
