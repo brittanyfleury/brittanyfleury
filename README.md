@@ -4,7 +4,7 @@
 ### Tippie College of Business, The University of Iowa
 
 
-[LinkedIn](https://www.linkedin.com/in/brittanyfleury/)
+[LinkedIn](https://www.linkedin.com/in/brittanyfleury/) <br>
 [MyWebsite](www.brittanyfleury.com)
 <!--
 **brittanyfleury/brittanyfleury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
